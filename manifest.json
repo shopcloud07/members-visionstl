@@ -1,21 +1,21 @@
 
 {
-  "name": "Mega Maker 3D",
-  "short_name": "Mega Maker",
+  "name": "VISION PRIME STL",
+  "short_name": "VISION PRIME",
   "description": "Acesso exclusivo a modelos e ferramentas para impressão 3D",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#ff8c00",
+  "theme_color": "#078bfb",
   "icons": [
     {
-      "src": "https://img.icons8.com/ios-filled/192/ff8c00/printer.png",
+      "src": "https://img.icons8.com/ios-filled/192/078bfb/visible.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://img.icons8.com/ios-filled/512/ff8c00/printer.png",
+      "src": "https://img.icons8.com/ios-filled/512/078bfb/visible.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
